@@ -1,2 +1,2 @@
-import {ArrDays} from './example\specs\test\Export.js';
+import {ArrDays} from './example/specs/test/Export.js';
 console.log(ArrDays); 
